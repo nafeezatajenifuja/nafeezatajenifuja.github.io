@@ -37,8 +37,8 @@ News
 
 Contact
 ---------
-:email: taadebi2 'at' uh 'dot' edu
+:email: taadebiyi2 'at' uh 'dot' edu
 
-For collaboration opportunities, project discussions, or professional inquires, feeel free to reach out via my mail. 
+For collaboration opportunities, project discussions, or professional inquiries, feel free to reach out via email. 
 
 You can also reach me via [LinkedIn](https://www.linkedin.com/in/taiwo-adebiyi-055750174/). Kindly note that response times may vary due to bandwidth limitations.
