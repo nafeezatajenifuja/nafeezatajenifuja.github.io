@@ -21,6 +21,8 @@ Education
 
 News
 ======
+**October 20, 2025** - [Awarded the UH-Energy Chevron Graduate Energy Fellowship!](https://uq.uh.edu/blog/taiwo-wins-chevron-fellowship) 
+
 **Apr 25, 2025** - Landed in Singapore to present our paper on ["Optimizing Posterior Samples for Bayesian Optimization via Rootfinding"](https://iclr.cc/virtual/2025/poster/30191) at ICLR 2025!  
 
 **Jan 22, 2025** - Our research on [Optimizing Posterior Samples for Bayesian Optimization via Rootfinding](https://openreview.net/pdf?id=IpRLTVblaV) was accepted to ICLR 2025!
