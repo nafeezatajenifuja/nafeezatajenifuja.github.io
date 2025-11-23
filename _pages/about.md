@@ -33,7 +33,7 @@ News
 
 **Nov 12, 2024** - Honored to receive travel funding from Google Research to present at the NeurIPS 2024 BDU Workshop in Vancouver!
 
-**Oct 09, 2024** - Our research on [Gaussian Process Thompson Sampling via Rootfinding](https://openreview.net/forum?id=IpRLTVblaV)) was accepted for oral presentation at NeurIPS 2024 BDU Workshop!
+**Oct 09, 2024** - Our research on [Gaussian Process Thompson Sampling via Rootfinding](https://openreview.net/forum?id=IpRLTVblaV) was accepted for oral presentation at NeurIPS 2024 BDU Workshop!
 
 **Aug 1, 2024** - Our paper on [Digital Twins and Civil Engineering Phases: Reorienting Adoption Strategies](https://asmedigitalcollection.asme.org/computingengineering/article/24/10/100801/1202057/Digital-Twins-and-Civil-Engineering-Phases?searchresult=1) was accepted to ASME Journal of Computing and Information Science in Engineering!
 
