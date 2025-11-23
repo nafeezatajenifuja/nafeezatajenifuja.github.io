@@ -22,22 +22,23 @@ repository               : "nafeezatajenifuja.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-cropped-2.png"
-  name             : "Taiwo Adebiyi"
-  pronouns         : # example: "she/her"  
+  avatar           : "bio.jpg"
+  name             : "Nafeezat Ajenifuja"
+  preferred name   : "Toro"
+  pronouns         : "she/her"  
   bio              : "PhD Candidate"
   location         : "Houston, TX"
   employer         : "University of Houston"
-  uri              : "https:/TaiwoAdebiyi23.github.io"
+  uri              : "https:/nafeezatajenifuja.github.io"
   home             : ""
-  email            : "taadebiyi2@uh.edu" 
+  email            : "naajenifuja@uh.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=qJdhj-IAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=e6UaxBkAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0004-8869-1076"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-9430-8454"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -47,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "TaiwoAdebiyi23"
+  github           : "nafeezatajenifuja"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,9 +60,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "taiwo_adebiyi23"
+  instagram        : "adetoro._"
   lastfm           : # Username
-  linkedin         : "taiwo-adebiyi-055750174"
+  linkedin         : "adetoro-ajenifuja-781880161"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -69,7 +70,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : 'TaiwoAdebiyi1'
+  twitter          : #'TaiwoAdebiyi1'
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -136,7 +137,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "TaiwoAdebiyi1"
+  username               : #&twitter "TaiwoAdebiyi1"
 facebook:
   username               :
   app_id                 :
