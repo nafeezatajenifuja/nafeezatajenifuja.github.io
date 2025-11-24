@@ -1,5 +1,5 @@
 ---
-title: "Optimizing ADCRIC simulations using AI/ML-Based Surrogates"
+title: "Using HydroUQ for Experiment-Simulation Validation"
 collection: talks
 type: "Hackathon"
 permalink: /talks/2024-07-30-nheri-tacc
