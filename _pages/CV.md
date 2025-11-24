@@ -3,7 +3,7 @@ title: "CV"
 layout: single
 permalink: /cv/
 author_profile: true
-last_modified_at: October 2025
+last_modified_at: November 2025
 classes: wide
 ---
 <section class="page__content" itemprop="text">
