@@ -21,6 +21,8 @@ Education
 
 News
 ======
+**May 21, 2026** - Presented an oral paper at the 39th International Conference on Coastal Engineering (ICCE 2026) in Galveston, TX. Selected for oral presentation in Session 10A: Coastal Hazards and Risk.
+
 **July 18, 2025** - Honored to receive the Presidential Fellowship as an incoming PhD student at the University of Houston!
 
 **Nov 19, 2024** - Grateful to have received the Jimmie A. Schindewolf Academic Scholarship for academic and research excellence at the University of Houston!
